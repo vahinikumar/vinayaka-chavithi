@@ -2,6 +2,7 @@ const CACHE_NAME = "vinayaka-chavithi-v3";
 const APP_FILES = [
   "./",
   "./index.html",
+  "./style.css",
   "./manifest.json",
   "./icon-192.png",
   "./icon-512.png"
