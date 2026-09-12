@@ -1,4 +1,4 @@
-const CACHE_NAME = "vinayaka-chavithi-v2";
+const CACHE_NAME = "vinayaka-chavithi-v3";
 const APP_FILES = [
   "./",
   "./index.html",
