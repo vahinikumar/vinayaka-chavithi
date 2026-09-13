@@ -22,7 +22,9 @@
     visibility:hidden;
     transition:opacity .5s ease,visibility .5s ease;
 }
-
+.note {
+    white-space: pre-line;
+}
 @font-face{
   font-family:'Noto Sans Telugu';
   src:url(data:font/woff2;base64,YOUR_EXISTING_FONT_DATA_HERE) format('woff2');
